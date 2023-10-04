@@ -46,8 +46,10 @@ Follow the prompts to create a superuser account.
     Navigate to http://127.0.0.1:8000/login/ and login with superuser credentials.
 
 ## API Endpoints:
-### Retrieve & Create Products: http://127.0.0.1:8000/products/
-### Retrieve, Update & Delete a Single Product: http://127.0.0.1:8000/products/{product_id}/
+### Retrieve & Create Products: 
+http://127.0.0.1:8000/products/
+### Retrieve, Update & Delete a Single Product: 
+http://127.0.0.1:8000/products/{product_id}/
 
 ## Filters
 ### Apply filters by appending query parameters to the URL:
