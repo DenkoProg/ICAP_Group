@@ -19,10 +19,7 @@ Ensure you have the following installed:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
-
-### Navigate to Project Directory:
-    cd path_to_your_project
+   git clone https://github.com/DenkoProg/ICAP_Group.git
 
 ### Setup Virtual Environment (Optional, but Recommended):
     python -m venv venv
@@ -54,3 +51,4 @@ Follow the prompts to create a superuser account.
 
 ## Filters
 # Apply filters by appending query parameters to the URL:
+    http://127.0.0.1:8000/products/?offer_of_the_month=true&availability=true
